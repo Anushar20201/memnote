@@ -3,7 +3,7 @@
 ### Description
 
 MEMNOTE is an application where you can use this to cretae notes or code snippets with or without an internet connection
-SO THAT I can reliably retrieve them for later use.
+SO THAT I can reliably retrieve them for later use. Through this application we can also download the app and use it.
 
 
 ### Use cases
