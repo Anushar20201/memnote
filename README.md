@@ -43,7 +43,12 @@ This can be accessible at : https://github.com/Anushar20201/memnote
 This can be accessible at :https://testmemnote.herokuapp.com/ 
 
 ### Screenshot
+
+- Heroku image
  ![memnote](https://github.com/Anushar20201/memnote/blob/main/images/Screenshot.PNG)
+
+- Image on downloading the app
+![app](https://github.com/Anushar20201/memnote/blob/main/images/JATE-app-download-image.PNG)
 
 ### Designed with ❤️ by
 - Anusha
