@@ -43,7 +43,7 @@ This can be accessible at : https://github.com/Anushar20201/memnote
 This can be accessible at :https://testmemnote.herokuapp.com/ 
 
 ### Screenshot
- ![memnote]()
+ ![memnote](https://github.com/Anushar20201/memnote/blob/main/images/Screenshot.PNG)
 
 ### Designed with ❤️ by
 - Anusha
