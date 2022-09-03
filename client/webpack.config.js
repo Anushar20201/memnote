@@ -39,8 +39,8 @@ module.exports = () => {
         name: 'memnote',
         short_name: 'JATE',
         description: 'Just Another Text Editor!',
-        background_color: '##bfd6f2',
-        theme_color: '##bfd6f2',
+        background_color: '#225ca3',
+        theme_color: '#225ca3',
         start_url: '/',
         publicPath: '/',
         icons: [
