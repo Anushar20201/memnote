@@ -1,13 +1,17 @@
 {
     "name": "MEMNOTE",
     "version": "1.0.0",
-    "description": "",
+    "description": "Note taker application",
     "main": "server.js",
     "scripts": {
         "server": "nodemon server.js --ignore client"
     },
+    "engines:": {
+        "node": "14.17.3",
+        "npm": "6.14.13"
+    },
     "keywords": [],
-    "author": "",
+    "author": "Anusha",
     "license": "ISC",
     "dependencies": {
         "express": "^4.17.1"
